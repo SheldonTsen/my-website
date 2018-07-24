@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-Now updating update-readme branch
-
-Update locally
+Updates made on master on GitHub before release
